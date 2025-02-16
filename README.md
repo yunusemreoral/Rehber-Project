@@ -2,7 +2,7 @@
 
 <li>Bu proje React,Vite,Scss,Axios,Apı,Json-Server,React-Icons ile oluşturulmuş Rehber uygulaması site arayüzü içerir.</li>
 <li>Rehber uygulamasında yeni kişi ekleme,kişiyi güncelleme ve silme özelliğini barındırır.</li>
-<li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
+<li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
 
