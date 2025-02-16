@@ -1,9 +1,22 @@
-# React + Vite
+# Rehber Project 👤
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<li>Bu proje React,Vite,Scss,Axios,Apı,Json-Server,React-Icons ile oluşturulmuş Rehber uygulaması site arayüzü içerir.</li>
+<li>Rehber uygulamasında yeni kişi ekleme,kişiyi güncelleme ve silme özelliğini barındırır.</li>
+<li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
 
-Currently, two official plugins are available:
+# Kullanılan Teknolojiler 🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Rehber-Project
+<li>React</li>
+<li>Vite</li>
+<li>Scss</li>
+<li>Axios</li>
+<li>Apı</li>
+<li>Json-Server</li>
+<li>React-Icons</li>
+
+
+# Ekran Görüntüsü 🎥
+<img src="rehber.gif" width="auto">      
+
+# İletişim 📩
+yunusemreoral@hotmail.com.tr
